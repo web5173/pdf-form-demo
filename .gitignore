@@ -1,0 +1,27 @@
+# Root-level ignores for the whole workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Common generated files
+node_modules/
+dist/
+dist-ssr/
+.vite/
+.cache/
+coverage/
+*.local
+*.log
+*.tmp
+*.temp
+
+# Local project artifacts
+form.pdf
+*.pdf
