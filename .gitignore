@@ -23,5 +23,4 @@ coverage/
 *.temp
 
 # Local project artifacts
-form.pdf
-*.pdf
+# Keep important test PDFs tracked; only ignore temp/generated files below
